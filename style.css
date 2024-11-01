@@ -471,7 +471,7 @@ input, button, textarea, select {
 
 .project__image {
     border-bottom: 1px solid var(--gray);
-    aspect-ratio: 14 / 9;
+    aspect-ratio: 12 / 7;
   
 }
 
